@@ -2,7 +2,7 @@
 
 You must create a communication program in the form of a client and a server.
 
-# Mandatory Part
+## Mandatory Part
 
 • The server must be started first. After its launch, it has to print its PID.
 
@@ -22,7 +22,7 @@ You must create a communication program in the form of a client and a server.
 
 • You can only use these two signals: SIGUSR1 and SIGUSR2.
 
-# Bonus part
+## Bonus part
 
 • The server acknowledges every message received by sending back a signal to the client.
 
